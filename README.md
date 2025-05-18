@@ -54,30 +54,6 @@ Me chamo Letícia, tenho 18 anos e sou natural de São Paulo. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JSON" 
-    title="JSON" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Figma" 
     title="Figma" 
     width="30px" 
@@ -123,11 +99,19 @@ Me chamo Letícia, tenho 18 anos e sou natural de São Paulo. Concluí o ensino 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Angular" 
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
